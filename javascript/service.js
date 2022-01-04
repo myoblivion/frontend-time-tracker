@@ -15,11 +15,11 @@ function getTimeTracking() {
             <div class="box-panel">
                 <div class="header-box">
                     <h3>${data.title}</h3>
-                    <span><img src="../images/icons/icon-ellipsis.svg" alt=""></span>
+                    <span><img src="/images/icons/icon-ellipsis.svg" alt=""></span>
                 </div>
                 <div class="body-box">
-                    <p class="hrs">${data.timeframes.weekly.current}hrs</p>
-                    <p class="period">Last Week - ${data.timeframes.weekly.previous}hrs</p>
+                    <p class="hrs">${data.timeframes.monthly.current}hrs</p>
+                    <p class="period">Last Week - ${data.timeframes.monthly.previous}hrs</p>
                 </div>
             </div>
         </div>`;

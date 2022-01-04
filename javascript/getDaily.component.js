@@ -8,7 +8,7 @@ function getDailyReport() {
         <div class="box-panel">
             <div class="header-box">
                 <h3>${data.title}</h3>
-                <span><img src="../images/icons/icon-ellipsis.svg" alt=""></span>
+                <span><img src="/images/icons/icon-ellipsis.svg" alt=""></span>
             </div>
             <div class="body-box">
                 <p class="hrs">${data.timeframes.daily.current}hrs</p>
