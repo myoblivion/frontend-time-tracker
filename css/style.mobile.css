@@ -404,7 +404,7 @@ main .container .user-panel .panel-box .box-panel .body-box .period {
 
 main .container .user-panel .work {
   background-color: #ff8c66;
-  background-image: url(/images/icons/icon-work.svg);
+  background-image: url(../images/icons/icon-work.svg);
 }
 
 main .container .user-panel .play {
