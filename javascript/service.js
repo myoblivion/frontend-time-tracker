@@ -1,4 +1,4 @@
-const URL =   "https://raw.githubusercontent.com/Fernando0654/Fernando0654/main/data.timeTracking.json";
+const URL =   "https://raw.githubusercontent.com/myoblivion/stats-preview-card/master/data.timeTracking.json";
 let DATA = [];
 let content = document.querySelector('.user-panel')
 
